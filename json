@@ -1,0 +1,103 @@
+[
+  {
+    "name": "MarqueA",
+    "models": [
+      {
+        "name": "ModèleA1",
+        "battery": [50, 75, 100]
+      },
+      {
+        "name": "ModèleA2",
+        "battery": [60, 80, 120]
+      },
+      {
+        "name": "ModèleA3",
+        "battery": [70, 90, 140]
+      },
+      {
+        "name": "ModèleA4",
+        "battery": [55, 85, 115]
+      },
+      {
+        "name": "ModèleA5",
+        "battery": [45, 95, 135]
+      }
+    ]
+  },
+  {
+    "name": "MarqueB",
+    "models": [
+      {
+        "name": "ModèleB1",
+        "battery": [40, 60, 80]
+      },
+      {
+        "name": "ModèleB2",
+        "battery": [30, 90, 150]
+      },
+      {
+        "name": "ModèleB3",
+        "battery": [25, 50, 75]
+      },
+      {
+        "name": "ModèleB4",
+        "battery": [35, 70, 105]
+      },
+      {
+        "name": "ModèleB5",
+        "battery": [45, 80, 120]
+      }
+    ]
+  },
+  {
+    "name": "MarqueC",
+    "models": [
+      {
+        "name": "ModèleC1",
+        "battery": [20, 40, 60]
+      },
+      {
+        "name": "ModèleC2",
+        "battery": [15, 30, 45]
+      },
+      {
+        "name": "ModèleC3",
+        "battery": [25, 50, 100]
+      },
+      {
+        "name": "ModèleC4",
+        "battery": [35, 70, 110]
+      },
+      {
+        "name": "ModèleC5",
+        "battery": [40, 80, 120]
+      }
+    ]
+  },
+  {
+    "name": "MarqueD",
+    "models": [
+      {
+        "name": "ModèleD1",
+        "battery": [55, 75, 95]
+      },
+      {
+        "name": "ModèleD2",
+        "battery": [65, 85, 105]
+      },
+      {
+        "name": "ModèleD3",
+        "battery": [75, 95, 115]
+      },
+      {
+        "name": "ModèleD4",
+        "battery": [85, 105, 125]
+      },
+      {
+        "name": "ModèleD5",
+        "battery": [95, 115, 135]
+      }
+    ]
+  }
+  ]
+  
